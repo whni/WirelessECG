@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HeartCarer.LineChart.drawRect (HeartCarer.LineChart)(C.CGRect) -&gt; ():LineChart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HeartCarer.LineChart.drawDataStore (HeartCarer.LineChart)(Swift.Int) -&gt; ():LineChart.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

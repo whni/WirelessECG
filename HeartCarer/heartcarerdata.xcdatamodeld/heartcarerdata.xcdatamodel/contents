@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6254" systemVersion="14B25" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="UserManagedInfo" representedClassName="HeartCarer.UserManagedInfo" syncable="YES">
+        <attribute name="bpmthreshold" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ifappendloc" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="ifCSmode" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="ifsendmsg" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="length_sample" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="msg_emer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_first" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_last" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone_emer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserManagedInfo" positionX="-63" positionY="81" width="128" height="255"/>
+    </elements>
+</model>
